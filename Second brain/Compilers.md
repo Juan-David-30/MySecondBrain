@@ -1,0 +1,3 @@
+Related topics: [[Computer Science]]
+
+The compilers are programs responsable to translate a [[Programming languages]] into [[Binary]], the compilers unlike the [[Interpreters]] translates the code just when it is written, so when you finish of writing a code, you have to run the compiler which translates it to [[Binary]] and creates a new file with that Binary code. Of course having some advatages like the being faster at the execution moment.

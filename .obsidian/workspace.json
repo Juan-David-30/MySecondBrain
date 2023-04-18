@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "71d87f017de17373",
+    "type": "split",
+    "children": [
+      {
+        "id": "753e16a68e1c2ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd91b3e880dcc351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second brain/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca5cb3e41fe2fb30",
+    "type": "split",
+    "children": [
+      {
+        "id": "15471ac3de3c147d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81df0f83ed342f38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "e19c70417d376807",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#LandingTopic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3f182eb0d4de4f0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e1cff694cb05565",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d615e3e704d2b1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ea2682d6aaed7f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Second brain/Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ae914fc1e4c6f90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58a407cb889d4c44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Second brain/Python.md"
+              }
+            }
+          },
+          {
+            "id": "c01deda7340e15dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Second brain/Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80f13ef3b6b19308",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "cd91b3e880dcc351",
+  "lastOpenFiles": [
+    "Second brain/CSS.md",
+    "Second brain/Python.md",
+    "Second brain/Programming languages.md",
+    "Second brain/Computer Science.md",
+    "Second brain/JavaScript.md",
+    "Templates/Programming Language Template.md",
+    "Templates/Concept.md",
+    "Second brain/C.md",
+    "Second brain/React JS.md",
+    "Second brain/Compilers.md",
+    "Second brain/Hardware.md",
+    "Second brain/Web development.md",
+    "Second brain/Front-end development.md",
+    "Second brain/Back-end development.md",
+    "Second brain/Interpreters.md",
+    "Templates/Topic pointstart.md",
+    "Templates/Book note.md",
+    "Second brain/Binary.md",
+    "Second brain/typed.md",
+    "Second brain/Programming.md",
+    "Second brain/CPU.md",
+    "Untitled.canvas",
+    "Files/Computer3D.png",
+    "Files/Certificado - Curso profesional de JavaScript.pdf",
+    "Second brain/This semester course.md",
+    "Second brain/Note.md",
+    "Second brain/Titled.md",
+    "Second brain/So know this is created inside the second brain folder.md",
+    "New thing.md",
+    "Untitled",
+    "Reference notes",
+    "Templates",
+    "Files",
+    "Second brain",
+    "Learning python.canvas",
+    "Other folder",
+    "Pasted image 20230417101057.png"
+  ]
+}

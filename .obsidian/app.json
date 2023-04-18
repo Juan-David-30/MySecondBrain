@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newLinkFormat": "shortest",
+  "newFileFolderPath": "Second brain",
+  "attachmentFolderPath": "Files",
+  "alwaysUpdateLinks": true
+}
