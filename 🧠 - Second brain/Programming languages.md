@@ -8,8 +8,8 @@ So through setting a bunch of constraints and ways to write this ideas we can ea
 
 The idea of a programming language is the same, but starting from it there is a certain flexibility so the programming languages can variate depending on its features and way to structure its constrains and way of coding. 
 ## By its compilation time
-+ Interpreted: are compiled at the time of executing (This process is made by a [[Interpreters|Interpreter]])
-+ Compiled: are compiled before start running the code (Process made by a [[Compilers|compiler]])
++ **Interpreted**: are compiled at the time of executing (This process is made by a [[Interpreters|Interpreter]])
++ **Compiled**: are compiled before start running the code (Process made by a [[Compilers|compiler]])
 ---
 
 # Common functionalities 

@@ -1,6 +1,9 @@
-Tags: #book
+---
+Tags: Book
+Author: {Author name}
+Topic: {Main global topic of the book}
+---
 Related topics: {links}
-Author: {name}
 
 # Why do I want to read it?
 
@@ -18,3 +21,8 @@ Author: {name}
 
 + ## {First chapter's name}
 	...
+
+
+--- 
+## Resource
+	{Either attachment or link to resource}

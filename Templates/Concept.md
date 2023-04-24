@@ -1,8 +1,12 @@
-Tags: {Tags}
-Related topics:  {links}
+---
+Tags: Concept
+---
+Related topics: {links}
 
-+ ### What's {title}?
-	
+{introduction}
 
-+ ### Why is it useful?
-	
+## Idea
++ {What does this concept consist in?}
+
+## Sources
+	{List of sources}

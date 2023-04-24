@@ -1,4 +1,7 @@
-Tags: #LandingTopic
+---
+Tags: LandingTopic
+Topic: WebDevelopment
+---
 Related topics: [[Web development]], [[Programming]], [[Internet]], [[Networking]]
 
 The **front-end development** is the area of the [[Web development]] which deals with the user-side, it means that the front-end is on charge to develop all the code which the client will receive and his browser will read and run. 

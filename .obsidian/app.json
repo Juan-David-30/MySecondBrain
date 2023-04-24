@@ -3,7 +3,8 @@
   "spellcheck": true,
   "newFileLocation": "folder",
   "newLinkFormat": "shortest",
-  "newFileFolderPath": "Second brain",
+  "newFileFolderPath": "🧠 - Second brain",
   "attachmentFolderPath": "Files",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true
 }

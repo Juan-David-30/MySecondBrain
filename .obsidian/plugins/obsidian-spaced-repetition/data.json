@@ -4,9 +4,9 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#flashcards",
-      "#maths",
-      "#computerScience"
+      "#Mathflashcards",
+      "#CSflashcards",
+      "#AIflashcards"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -28,7 +28,7 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "files"
+      "Templates"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
@@ -42,7 +42,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-04-17",
+  "buryDate": "2023-04-18",
   "buryList": [],
-  "historyDeck": "flashcards"
+  "historyDeck": null
 }

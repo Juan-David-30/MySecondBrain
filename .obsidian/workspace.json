@@ -4,23 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "753e16a68e1c2ac3",
+        "id": "c926f00a2c0d5d4f",
         "type": "tabs",
         "children": [
           {
-            "id": "cd91b3e880dcc351",
+            "id": "5a57daf0d00ddd8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second brain/Python.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -34,22 +29,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81df0f83ed342f38",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byModifiedTime"
-              }
-            }
-          },
-          {
             "id": "e19c70417d376807",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#LandingTopic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,17 +50,76 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "81df0f83ed342f38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "7e1cff694cb05565",
     "type": "split",
     "children": [
+      {
+        "id": "98e648e3a8899f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82f24e9940ff6f94",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 135,
+                  "scale": 0.6706449844496263,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "5dc3eed04871c494",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "0d615e3e704d2b1a",
         "type": "tabs",
@@ -86,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second brain/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Second brain/Python.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second brain/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,22 +169,12 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "80f13ef3b6b19308",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,44 +187,49 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cd91b3e880dcc351",
+  "active": "5a57daf0d00ddd8f",
   "lastOpenFiles": [
-    "Second brain/CSS.md",
-    "Second brain/Python.md",
-    "Second brain/Programming languages.md",
-    "Second brain/Computer Science.md",
-    "Second brain/JavaScript.md",
-    "Templates/Programming Language Template.md",
+    "📄 - References/🏫 - Courses/Introduction to mathematical thinking.md",
+    "🧠 - Second brain/Mathematical notation.md",
+    "🧠 - Second brain/What is mathematics?.md",
+    "🧠 - Second brain/Mathematical thinking.md",
+    "🧠 - Second brain/Mathematics moving off from reality and numbers.md",
+    "🧠 - Second brain/Mathematics.md",
+    "🧠 - Second brain/Algebra.md",
+    "📂 - Attachments/👓 - Class Readings/BackgroundRead_Lect0 _MathThinking_StandfordOnline.pdf",
     "Templates/Concept.md",
-    "Second brain/C.md",
-    "Second brain/React JS.md",
-    "Second brain/Compilers.md",
-    "Second brain/Hardware.md",
-    "Second brain/Web development.md",
-    "Second brain/Front-end development.md",
-    "Second brain/Back-end development.md",
-    "Second brain/Interpreters.md",
     "Templates/Topic pointstart.md",
+    "Templates/Library.md",
+    "📄 - References/🏫 - Courses/Course readings",
+    "📂 - Attachments/📖 - Books",
+    "📂 - Attachments/👓 - Class Readings",
+    "🧠 - Second brain/Background reading - L0Stanford.md",
+    "🗺 - Index.md",
+    "Templates/Framework.md",
     "Templates/Book note.md",
-    "Second brain/Binary.md",
-    "Second brain/typed.md",
-    "Second brain/Programming.md",
-    "Second brain/CPU.md",
+    "Templates/Course note.md",
+    "Templates/Programming Language.md",
+    "Templates/Definition.md",
+    "📄 - References/Referecens track.md",
+    "🧠 - Second brain/C.md",
+    "🧠 - Second brain/Libraries.md",
+    "🧠 - Second brain/JavaScript.md",
+    "🧠 - Second brain/React JS.md",
+    "🧠 - Second brain/Python.md",
+    "🧠 - Second brain/Back-end development.md",
+    "🧠 - Second brain/Front-end development.md",
+    "🧠 - Second brain/Web development.md",
+    "📄 - References/🏫 - Courses",
+    "📄 - References/📚 -  Books",
+    "📂 - Attachments/Pasted image 20230418232744.png",
+    "📂 - Attachments/Computer3D.png",
+    "📂 - Attachments/Comment.png",
     "Untitled.canvas",
-    "Files/Computer3D.png",
     "Files/Certificado - Curso profesional de JavaScript.pdf",
-    "Second brain/This semester course.md",
-    "Second brain/Note.md",
-    "Second brain/Titled.md",
-    "Second brain/So know this is created inside the second brain folder.md",
-    "New thing.md",
-    "Untitled",
-    "Reference notes",
+    "📄 - References",
     "Templates",
-    "Files",
-    "Second brain",
+    "📂 - Attachments",
     "Learning python.canvas",
-    "Other folder",
     "Pasted image 20230417101057.png"
   ]
 }
