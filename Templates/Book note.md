@@ -24,5 +24,5 @@ Related topics: {links}
 
 
 --- 
-## Resource
+# Resource
 	{Either attachment or link to resource}

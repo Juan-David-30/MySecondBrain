@@ -11,9 +11,15 @@ They've encountered that some problems can't be solve with the real-world as fra
 
 Thanks to that now the mathematics has adopted a different conception, where the primary focus isn't the calculation or performing it, but understanding and formulating abstract concepts which goes beyond of the numbers, relationships and proofs. Again, shifting **from doing to understanding**. 
 
-+ Example
-	A well-know example of this change from calculating to understanding ideas an apply them beyond numbers is the *function*, before a function was defined as an algebraic expression such as: y = x^2 + 3x - 5, Which given a number (x) yields a number (y). That approach or definition of a *function*, changed and now it is neither confined to a algebraic expression nor numbers, now it is any procedure or rule which receives a input and then returns or generates a output, such as follows:
-	If x is rational, set f(x)=0; if x is rational, set f(x)=1
+#### Example
+
+A well-know example of this change from calculating to understanding ideas an apply them beyond numbers is the *function*, before a function was defined as an algebraic expression such as: 
+
+y = x^2 + 3x - 5.
+
+Which given a number (x) yields a number (y). That approach or definition of a *function*, changed and now it is neither confined to a algebraic expression nor numbers, now it is any procedure or rule which receives a input and then returns or generates a output, such as follows:
+
+If x is rational, set f(x)=0; if x is rational, set f(x)=1
 
 Thanks to that mathematics started to study *properties* of abstract objects specified not for formulas but by its behavior.
 

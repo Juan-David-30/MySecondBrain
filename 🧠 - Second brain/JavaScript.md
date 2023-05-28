@@ -1,4 +1,6 @@
-Tags: #programmingLanguage 
+---
+Tags: programmingLanguage 
+---
 Related topics: [[Computer Science]], [[Programming]]
 
 JavaScript is a [[Programming languages]] priorly designed for [[Front-end development]], but currently also use for [[Back-end development]]. It has a flexible sintaxis which makes it easy to learn. 

@@ -17,7 +17,7 @@ Related topics: [[Mathematics]], [[Mathematical thinking]]
 	*m+n = n+m*
 
 ### Mathematics as len to see the invisible
-Mathematics as explained in [[What is mathematics?]], can represent and study some abstract patterns, and there is where the notation to represent all these abstract patterns and ideas are widely more important, and mathematics are utterly important to understand the abstract patterns of the universe. 
+Mathematics as explained in [[What is mathematics?]], can represent and study some abstract patterns, and there is where the notation to represent all these abstract patterns and ideas are widely more important, and mathematics are utterly important to understand the abstract patterns of the universe.
 
 ```ad-quote
 title: Gelileo's Quote

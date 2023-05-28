@@ -18,5 +18,5 @@ Related topics: {links}
 ... other modules
 
 ---
-## Link to the resource
+# Link to the resource
 	{link}

@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c926f00a2c0d5d4f",
+        "id": "87936b9de60a942b",
         "type": "tabs",
         "children": [
           {
-            "id": "5a57daf0d00ddd8f",
+            "id": "76784f8ccb0bcae6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🧠 - Second brain/Operation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "624dfbea7ffa8f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 - Second brain/How to represent information.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -28,6 +44,16 @@
         "id": "15471ac3de3c147d",
         "type": "tabs",
         "children": [
+          {
+            "id": "81df0f83ed342f38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
           {
             "id": "e19c70417d376807",
             "type": "leaf",
@@ -52,21 +78,18 @@
             }
           },
           {
-            "id": "81df0f83ed342f38",
+            "id": "10e42793a9fdb865",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byModifiedTime"
-              }
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "right": {
     "id": "7e1cff694cb05565",
@@ -82,6 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "🧠 - Second brain/Operation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -104,7 +128,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 135,
-                  "scale": 0.6706449844496263,
+                  "scale": 0.6406673862341623,
                   "close": true
                 }
               }
@@ -130,8 +154,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🧠 - Second brain/Operation.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -151,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🧠 - Second brain/Operation.md"
+              }
             }
           },
           {
@@ -160,13 +187,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🧠 - Second brain/Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -174,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,49 +215,55 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5a57daf0d00ddd8f",
+  "active": "81df0f83ed342f38",
   "lastOpenFiles": [
-    "📄 - References/🏫 - Courses/Introduction to mathematical thinking.md",
-    "🧠 - Second brain/Mathematical notation.md",
-    "🧠 - Second brain/What is mathematics?.md",
-    "🧠 - Second brain/Mathematical thinking.md",
-    "🧠 - Second brain/Mathematics moving off from reality and numbers.md",
-    "🧠 - Second brain/Mathematics.md",
-    "🧠 - Second brain/Algebra.md",
+    "📂 - Attachments/Operation.png",
+    "🧠 - Second brain/Trigonometric functions.md",
+    "🧠 - Second brain/Operation.md",
+    "🧠 - Second brain/Mathematic fundaments for physics.md",
+    "🧠 - Second brain/How to represent information.md",
+    "🧠 - Second brain/Arity.md",
+    "🧠 - Second brain/Inverse functions.md",
+    "🧠 - Second brain/Numbers.md",
+    "🧠 - Second brain/Complex numbers.md",
+    "🧠 - Second brain/Matrices.md",
+    "🧠 - Second brain/Inverse matrix.md",
+    "🧠 - Second brain/Equations systems.md",
+    "🧠 - Second brain/Angles.md",
+    "🧠 - Second brain/Unit circle.md",
+    "🧠 - Second brain/Trigonometric inverse functions.md",
+    "🧠 - Second brain/Trigonometry.md",
+    "🧠 - Second brain/Similarity.md",
+    "🧠 - Second brain/Pythagorean theorem.md",
+    "🧠 - Second brain/Functions.md",
+    "📄 - References/🏫 - Courses/CS50X.md",
+    "🧠 - Second brain/Trigonometric identities.md",
+    "🧠 - Second brain/Sinusoidal equations.md",
+    "🧠 - Second brain/Modelling sinusoidal equations.md",
+    "🧠 - Second brain/Law of sines.md",
+    "🧠 - Second brain/Law of cosines.md",
+    "🧠 - Second brain/How to read mathematical formulas.md",
+    "📂 - Attachments/Unit circle.png",
+    "📂 - Attachments/Types of angles.png",
+    "📂 - Attachments/Trigonometric functions.png",
+    "📂 - Attachments/Symmetry on unit circle.png",
+    "📂 - Attachments/Similarity.png",
+    "📂 - Attachments/secant visual proof.png",
+    "📂 - Attachments/Ranges of trigonometric functions.png",
+    "📂 - Attachments/Radian.png",
+    "📂 - Attachments/Pythagorean theorem proof.png",
+    "📂 - Attachments/proof addition identities.png",
     "📂 - Attachments/👓 - Class Readings/BackgroundRead_Lect0 _MathThinking_StandfordOnline.pdf",
-    "Templates/Concept.md",
-    "Templates/Topic pointstart.md",
-    "Templates/Library.md",
     "📄 - References/🏫 - Courses/Course readings",
     "📂 - Attachments/📖 - Books",
     "📂 - Attachments/👓 - Class Readings",
-    "🧠 - Second brain/Background reading - L0Stanford.md",
-    "🗺 - Index.md",
-    "Templates/Framework.md",
-    "Templates/Book note.md",
-    "Templates/Course note.md",
-    "Templates/Programming Language.md",
-    "Templates/Definition.md",
-    "📄 - References/Referecens track.md",
-    "🧠 - Second brain/C.md",
-    "🧠 - Second brain/Libraries.md",
-    "🧠 - Second brain/JavaScript.md",
-    "🧠 - Second brain/React JS.md",
-    "🧠 - Second brain/Python.md",
-    "🧠 - Second brain/Back-end development.md",
-    "🧠 - Second brain/Front-end development.md",
-    "🧠 - Second brain/Web development.md",
     "📄 - References/🏫 - Courses",
     "📄 - References/📚 -  Books",
-    "📂 - Attachments/Pasted image 20230418232744.png",
-    "📂 - Attachments/Computer3D.png",
-    "📂 - Attachments/Comment.png",
     "Untitled.canvas",
     "Files/Certificado - Curso profesional de JavaScript.pdf",
     "📄 - References",
     "Templates",
     "📂 - Attachments",
-    "Learning python.canvas",
-    "Pasted image 20230417101057.png"
+    "Learning python.canvas"
   ]
 }

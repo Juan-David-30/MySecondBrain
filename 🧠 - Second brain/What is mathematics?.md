@@ -5,7 +5,7 @@ Related topics: [[Mathematics]], [[Mathematical thinking]]
 
 We use all time the mathematics in our daily living, but what are the mathematics?, the schools almost never try to convey what are mathematics about. Instead they teach us some prior-set procedures, memorize them and apply them to solve some problems. That approach misses the "why?" and "what" of sight. 
 
-# Mathematics history and current status
+# Mathematics history and its current status
 + ## Current mathematics and its origin
 	Most of the mathematics used currently in science and engineering are from the last one or two-hundred years, much of them less than a century old. But in school we still seeing mathematics which are more than three-hundred years old, or even two-thousand years.
 	
@@ -35,16 +35,15 @@ There were other civilizations which also developed math such as the Chinese and
 	
 	This dramatical growth led to the acquisition of a new definition for mathematics, which is currently defined as the **science of patterns**, so the different branches of mathematics are science which identifies and study some patterns, like abstract patterns, numerical patterns, change patterns, motion patterns, and so on. 
 	
-	All these patterns can be either imaginary or real, visual or mental, static or dynamic, qualitative or quantitative, utilitarian or recreational, arise from the world or from inner workings of human mind. Different sort of patterns gave rise to different branches of maths. Such as: 
+	All these patterns can be either imaginary or real, visual or mental, static or dynamic, qualitative or quantitative, utilitarian or recreational, arise from the world or from inner workings of human mind. Different sort of patterns gave rise to different branches of maths. Such as:
 	
-	+ Arithmetic and numbers theory study the patter of numbers and counting.
+	+ Arithmetic and numbers theory study the pattern of numbers and counting.
 	+ [[Geometry]] studies the patterns of shape
 	+ [[Calculus]] allows us to handle pattens of motion. 
-	+ Logic studies patterns of reasoning. 
+	+ [[Mathematical logic|Logic]] studies patterns of reasoning. 
 	+ [[Probability theory]] deals with patters of change.
 	+ [[Topology]] studies patterns of closeness and position. 
 	+ Fractal geometry studies the self-similarity found in natural worlds.
-
 
 ## Sources
 [[Introduction to mathematical thinking]]

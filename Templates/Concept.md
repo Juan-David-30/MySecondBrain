@@ -5,8 +5,8 @@ Related topics: {links}
 
 {introduction}
 
-## Idea
+# Idea
 + {What does this concept consist in?}
 
-## Sources
+# Sources
 	{List of sources}

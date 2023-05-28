@@ -6,8 +6,8 @@ Related topics: {links}
 
 {Description}
 
-## Subtopics
+# Subtopics
 + {topics}
 
-## Sources
+# Sources
 	{List of sources}
