@@ -22,6 +22,8 @@ This is a super set of the natural and integer numbers, but adding the idea of f
 
 This is a super set of all the values above but including the concept of irrational numbers, which are "incomplete" numbers in a way that they have a decimal part, but unlike the rational numbers they can't be explain in terms of fractions or divisions, rather their decimal numbers don't seem to follow a pattern, some examples of them are for example $\sqrt{2}$, $\pi$, and e.
 
+To work with them we must understand their [[Real numbers Axioms|Axioms]].
+
 # Complex numbers
 
 [[Complex numbers|More about them]]

@@ -16,6 +16,6 @@ Know let's see the following example of a equation of grade two:
 $$x^2-4 = 0$$
 In this case we can notice that the value of x can be either 2 or -2, so, is it possible that a equation has two solutions?. 
 
-Yeah, a equation can have two, three, four, and even more solutions, but we don't have to worry too much about it. Indeed the number of solutions depends directly on the grade of the equation, so the linear equations have one, the quadratic equations two, cubic three, and so on. This solution often can be not possible to find in the [[Numbers#Real numbers $ mathbb{R}$|real numbers]] but in the complex numbers. 
+Yeah, a equation can have two, three, four, and even more solutions, but we don't have to worry too much about it. Indeed the number of solutions depends directly on the grade of the equation, so the linear equations have one, the quadratic equations two, cubic three, and so on. This solution often can be not possible to find in the [[Numbers#Real numbers $ mathbb{R}$|real numbers]] nevertheless they are always in the [[complex numbers]], this is explained by the [[Fundamental theorem of algebra]].
 
 The assertion specified above is known as the fundamental theorem of algebra. 

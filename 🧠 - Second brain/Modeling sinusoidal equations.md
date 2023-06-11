@@ -1,6 +1,6 @@
 Related topics: [[Trigonometry]]
 
-To model [[Sinusoidal equations]] equations we must have an understanding of the behaviour of its graph or in general function, and then realise of some techniques or ways to transform that function so it represents properly our specific case
+To model [[Sinusoidal equations]] equations we must have an understanding of the behavior of its graph or in general function, and then realize of some techniques or ways to transform that function so it represents properly our specific case
 
 
 # Amplitude 
@@ -29,4 +29,4 @@ x represents what value of the new quantity of revolutions we've advanced.
 
 # Conclusion
 
-The modelling of sinusoidal equations is pretty important and useful, in the area of mathematics has multiple applications, but they're not confined to them, they also can be useful for [[Generative art]] mainly for they're property of periodicity, and also in [[Physics]], even some Harmonic movements are modelled and explained with sinusoidal functions and equations.  
+The modeling of sinusoidal equations is pretty important and useful, in the area of mathematics has multiple applications, but they're not confined to them, they also can be useful for [[Generative art]] mainly for they're property of periodicity, and also in [[Physics]], even some Harmonic movements are modeled and explained with sinusoidal functions and equations.  

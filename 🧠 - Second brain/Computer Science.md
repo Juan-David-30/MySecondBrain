@@ -1,6 +1,6 @@
 ---
 Tags: LandingTopic
-Topic: AppliedMathematicBranch, PureMathematicBranch
+Topic: AppliedMathematicBranch
 ---
 Related topics: [[Mathematics]], [[Computation]]
 
