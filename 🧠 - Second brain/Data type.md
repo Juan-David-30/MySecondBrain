@@ -9,7 +9,7 @@ Commonly the [[programming languages]] have a bunch of basic data types, and the
 These examples are astracted from the programming language [[C]]
 
 ```
-+ int : Integer number (32 bits, 8 bytes)
++ int : Integer number (32 bits, 4 bytes)
 	+ unsigned int: integer number but with just positive values, so we can have greater values
 + float : floating-point (32 bits of precision, 4 bytes)
 + long: integer number (64 bits, 8 bytes)

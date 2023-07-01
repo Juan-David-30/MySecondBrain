@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cee78160e0c27b2",
+            "id": "4ec21cb90cf03125",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 - Second brain/Polynomial.md",
+                "file": "🧠 - Second brain/C.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec2d6fdd4104fb86",
+            "id": "9024e00423637779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📄 - References/🏫 - Courses/Cybersecurity CS50.md",
+                "file": "🧠 - Second brain/Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🧠 - Second brain/Polynomial.md",
+                "file": "🧠 - Second brain/C.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 135,
-                  "scale": 0.8748966136442906,
+                  "scale": 0.6759840388415727,
                   "close": true
                 }
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 - Second brain/Polynomial.md",
+                "file": "🧠 - Second brain/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧠 - Second brain/Polynomial.md"
+                "file": "🧠 - Second brain/C.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 - Second brain/Polynomial.md",
+                "file": "🧠 - Second brain/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,44 +216,43 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2cee78160e0c27b2",
+  "active": "4ec21cb90cf03125",
   "lastOpenFiles": [
+    "🧠 - Second brain/Memory.md",
+    "📄 - References/🏫 - Courses/CS50X.md",
+    "🧠 - Second brain/C.md",
+    "🧠 - Second brain/How to represent information.md",
+    "🧠 - Second brain/Variables.md",
+    "🧠 - Second brain/<stdio.h>.md",
+    "📂 - Attachments/Memory distribution.png",
+    "🧠 - Second brain/Pointers.md",
+    "🧠 - Second brain/Valgrind.md",
+    "📂 - Attachments/Pointers abstraction.png",
+    "📂 - Attachments/Pointers grid.png",
+    "🧠 - Second brain/Hexadecimal.md",
+    "🧠 - Second brain/Searching.md",
+    "🧠 - Second brain/Debugging.md",
+    "📄 - References/🏫 - Courses/Cybersecurity CS50.md",
+    "🧠 - Second brain/Data type.md",
+    "📂 - Attachments/Addresses of memory with prefixes.png",
+    "🧠 - Second brain/Images.md",
+    "📂 - Attachments/Addresses of memory in hexadecimal.png",
+    "🧠 - Second brain/RGB.md",
+    "📂 - Attachments/Hexadecimal position value.png",
+    "🧠 - Second brain/Binary.md",
+    "📂 - Attachments/Images as pixels.png",
+    "🧠 - Second brain/Web development.md",
+    "🧠 - Second brain/Compilers.md",
+    "🧠 - Second brain/Sorting.md",
+    "📂 - Attachments/HTST message.png",
+    "🧠 - Second brain/Hashing.md",
+    "📂 - Attachments/Fixed length of the hash.png",
+    "📂 - Attachments/Hash function.png",
+    "🧠 - Second brain/Polynomial.md",
     "🧠 - Second brain/Algebra.md",
     "🧠 - Second brain/Fundamental theorem of algebra.md",
-    "🧠 - Second brain/Polynomial.md",
     "🧠 - Second brain/Rational functions.md",
-    "🧠 - Second brain/Variables.md",
     "🧠 - Second brain/Modeling sinusoidal equations.md",
-    "🧠 - Second brain/Trigonometry.md",
-    "🧠 - Second brain/Trigonometric functions.md",
-    "🧠 - Second brain/Trigonometric inverse functions.md",
-    "🧠 - Second brain/Complex arithmetic.md",
-    "📄 - References/🏫 - Courses/Cybersecurity CS50.md",
-    "📄 - References/🏫 - Courses/CS50X.md",
-    "📂 - Attachments/Set of solutions of fifth root of (1).png",
-    "🧠 - Second brain/Complex numbers.md",
-    "🧠 - Second brain/Implication.md",
-    "🧠 - Second brain/Mathematical logic.md",
-    "📂 - Attachments/zettlekasten.png",
-    "🧠 - Second brain/Angles.md",
-    "🧠 - Second brain/Imaginary unit.md",
-    "🧠 - Second brain/Mathematics.md",
-    "🧠 - Second brain/Unit circle.md",
-    "🧠 - Second brain/Similarity.md",
-    "🧠 - Second brain/Chess.md",
-    "🧠 - Second brain/Sinusoidal equations.md",
-    "🧠 - Second brain/Computer Science.md",
-    "🧠 - Second brain/Numbers.md",
-    "🧠 - Second brain/Matrix model (complex numbers).md",
-    "🧠 - Second brain/xD.md",
-    "📂 - Attachments/Symmetry on unit circle.png",
-    "📂 - Attachments/Similarity.png",
-    "📂 - Attachments/proof addition identities.png",
-    "📂 - Attachments/half angle identity.png",
-    "📂 - Attachments/Absolute value complex numbers.png",
-    "📂 - Attachments/Complex plane.png",
-    "📂 - Attachments/Law of cosines.png",
-    "📂 - Attachments/Midpoint and distance of complex numbers.png",
     "📂 - Attachments/📖 - Books/Untitled",
     "📂 - Attachments/📖 - Books/numbers.pdf",
     "📂 - Attachments/👓 - Class Readings/BackgroundRead_Lect0 _MathThinking_StandfordOnline.pdf",

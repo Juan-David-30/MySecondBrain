@@ -34,6 +34,24 @@ int main(int argc, char[] argv[]);
 //It allows us to receive arguments from the command line
 ```
 
++ ## Main
+	Main as it name says is the principal function of C, and there we write all the principal logic of our program, or at least what will be executed once we run it.  
+	```C
+	int main(){
+		// Our code
+	}
+	```
+	Here you can notice that it is a function with a return of "int", and that's because, indeed it returns a int, but it is "invisible" for the user, and it represents a code of status, you can learn more about it in **error handling**. 
+	
+	Also we got to know that there is a way to access to different "flags" or values received when we run the script on the terminal. To do so we just have to add the following params: 
+	 ```C
+	int main(int argc, char *argv[]){
+		// Our code
+	}
+	```
+	
+	Here "argc" stands for "argument count", and as we can notice we it is a integer which represents the number or quantity of arguments sent when we ran the program. 
+
 + ## Headers
 	The headers are a important concept in C, it turns out that we have a bunch of different pre-made functions inside C, like in any other programming language, but C for optimizations purposes and because of being a "middle-level" language instead of a high-level.
 	
@@ -65,7 +83,7 @@ int main(int argc, char[] argv[]);
 + ## [[Variables]]
 	C being a programming language statically typed obligates you to set the [[Data type]] which the variable will contain before the name of the variable, then the name of the variable and the assignment operator "=", lastly on the right of the operator the value which the variable will contain closed with a semicolon(;)
 	```C
-	char variable[] = "Value";//For a string we use a char array and doble quotes
+	char *variable = "Value";//For a string we use a char array and doble quotes
 	char c = 'C'; //For a single character we use char and single quotes
 	int variable2 = 10;
 	float variable3 = 12.2; 
@@ -194,7 +212,7 @@ int main(int argc, char[] argv[]);
 	When we define a function and we want to use it before it is actually written, we have to include its "prototype" before where we're going to use them. 
 	```C
 	//This is the function prototype
-	int nameOfFunction(char[] parameters); 
+	int nameOfFunction(char *parameters); 
 	```
 
 + ## [[Operators]]
@@ -294,6 +312,8 @@ int main(int argc, char[] argv[]);
 	In C we don't have explicit or specific sintaxis for that, rather we use return values, and if we notice it turns out that the main function always has a "int" as return value, and indeed it does return a value, commonly is hidden, we can see the value that returns by running the command "echo $?". 
 	
 	By default it returns 0, but we can return any value, and thanks to that we can kinda error handling by stoping the program and sending a number as sort of a "code". 
+
++ ## [[Pointers]]
 
 
 # [[Frameworks]]

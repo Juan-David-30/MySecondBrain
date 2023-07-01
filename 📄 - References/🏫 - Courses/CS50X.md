@@ -45,7 +45,12 @@ A introduction to [[Computer Science]], where we'll learn to think algorithmical
 + [[Recursion]]
 
 # Lecture 4 - Memory
-+ 
++ [[Images]]
++ [[Hexadecimal]]
++ [[Memory]]
++ [[Pointers]]
++ [[Valgrind]]
++ [[<stdio.h>]]
 
 # Discovered in problem sets
 + [[Adjacency matrix]] - Data set 3
